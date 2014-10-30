@@ -1,0 +1,2068 @@
+[
+    {
+        "bio": "I have postgrad degrees in Professional Marketing [UNSW], Gastronomy [Uni Adelaide] Writing [UTS] and dozens of post-trade quals in food, cooking etc. I am also a PermaCulture teacher and have the PDC qual. I am very active in Dirt Club at UTS where I manage the compost tea bank and the wormfarms. I have qualified as a judge in the areas of olive oil, cheese and honey. I have started judging hive products at the RAS and was the sole judge honey & hive products for the Colonel Pulling Trophy for the amateur beekeeping clubs of NSW. I present regularly at conferences here and overseas on cookbooks, food marketing, functional foods, etc", 
+        "institution": "University of Technology, Sydney", 
+        "name": "Liane Colwell", 
+        "tags": [
+            {
+                "content": "Gastronomy", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Uni Adelaide", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "UTS", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "PermaCulture", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "PDC", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Dirt Club", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "RAS", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate student"
+    }, 
+    {
+        "bio": "Student of Library and Information Services", 
+        "institution": null, 
+        "name": "Sigita Gailiunas", 
+        "tags": [
+            {
+                "content": "Student of Library and Information Services", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "Doctoral thesis was in museum education / adult education / cultural studies, looking at museums as sites for dialogic informal learning. I planned to make a website to demo my findings \u2013 PhD ambition #fail \u2013 but the HTML and CSS skills proved useful for cracking into the cultural heritage sector. In my spare time I am making a genius game of resemblance inspired by @hipbonegamer and Hesse's Magister Ludi / glass bead game.", 
+        "institution": "National Museum of Australia / Sembl", 
+        "name": "Cath Styles", 
+        "tags": [
+            {
+                "content": "Doctoral", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "dialogic", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "HTML", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "CSS", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Hesse", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Magister Ludi", 
+                "tag-type": "person"
+            }
+        ], 
+        "title": "Digital Learning Designer / Founder, Dialogue Architect"
+    }, 
+    {
+        "bio": "I'm currently working on the Collection Discoverability program at the NGA. Our aim is to improve the ability for visitors to find, browse, interpret and respond to works of art according to their own needs and interests. Before this I have worked in a range of different roles with Cre8ive (Canberra), the ABC's Innovation Division (Melbourne), FORM and the Perth Institute of Contemporary Arts.", 
+        "institution": "National Gallery of Australia", 
+        "name": "Victoria Till", 
+        "tags": [
+            {
+                "content": "Collection Discoverability", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "NGA", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "ABC's Innovation", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Melbourne", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Perth Institute of Contemporary Arts", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Collection Discoverability Program Coordinator"
+    }, 
+    {
+        "bio": "Artist. Curator. Collection Manager. Stealth Geek. My main job is currently looking after a small, dispersed art collection at the University of Technology, Sydney. I am also writing a research paper where I have spent rather too much time pondering the value and significance of collections and art in universities, and how object biography may be used to support and extend the relevance and accessibility of art on campus.", 
+        "institution": "University of Technology, Sydney", 
+        "name": "Janet Ollevou", 
+        "tags": [
+            {
+                "content": "Stealth Geek", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Technology", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Sydney", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Asst Curator, UTS Art Collection"
+    }, 
+    {
+        "bio": "An social entrepreneur from Southeast Asia region who is newly migrated to Australia. I studied four universities in Asia, Europe, and Canada in the field of business administration, mass communication, and international relations.", 
+        "institution": "Ang Khmer Group", 
+        "name": "Ana Nov", 
+        "tags": [
+            {
+                "content": "Southeast Asia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Asia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Europe", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Canada", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Translator"
+    }, 
+    {
+        "bio": "Director, Australian Data Archive", 
+        "institution": "Australian Data Archive", 
+        "name": "Steven McEachern", 
+        "tags": [
+            {
+                "content": "Australian Data Archive", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Director"
+    }, 
+    {
+        "bio": "I am a Lecturer in Medical Anthropology at the Australian National University.", 
+        "institution": "Australian National University", 
+        "name": "Trang Ta", 
+        "tags": [
+            {
+                "content": "Lecturer", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Medical Anthropology", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Lecturer"
+    }, 
+    {
+        "bio": "An IT Business Analyst, I have been in the IT game for about 15 years now, after initially working as a landscape architect. I am also currently indulging a long-held passion by studying a Master of History. So naturally I am drawn to the digital humanities and totally addicted to Trove for discovering all those old newspapers for my history assignments!", 
+        "institution": "Self-employed contractor, currently working for DFAT", 
+        "name": "Katie Mills", 
+        "tags": [
+            {
+                "content": "Master of History", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Independent IT Business Analyst"
+    }, 
+    {
+        "bio": "Susie works as an Archivist in the Collection Management Services team at State Records of South Australia.", 
+        "institution": "State Records of South Australia", 
+        "name": "Susie van der Sluys", 
+        "tags": [
+            {
+                "content": "Susie", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Archivist", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Collection Management Services", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "State Records of South Australia", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Archivist"
+    }, 
+    {
+        "bio": "Bobby Graham is a digital publisher specialising in alternative digital publishing formats like HTML, ePUB and mobi.", 
+        "institution": "Bobby Graham Publishers", 
+        "name": "Bobby Graham", 
+        "tags": [
+            {
+                "content": "Bobby Graham", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "HTML", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Director"
+    }, 
+    {
+        "bio": "Have a BSC Hons, Education Diploma, Graduate Diploma in Applied Computing. Have spent a significant part of my career working in development aid in Indonesia and Laos. Returned to live in Canberra which gave me the opportunity to study (Master of Studies at ANU with the College of Arts and Social Sciences). Particularly interested in collective biography, focusing on prosopography.", 
+        "institution": "ANU", 
+        "name": "Michele Horne", 
+        "tags": [
+            {
+                "content": "BSC Hons", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Education Diploma", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Graduate Diploma", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Indonesia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Laos", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Master of Studies", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "ANU", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "College of Arts and Social Sciences", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate Student"
+    }, 
+    {
+        "bio": "Librarian. Sometimes techie. Occasionally eclectic. Has forgotten how to whistle at 300 baud. Currently responsible for eresource/licensing management.", 
+        "institution": null, 
+        "name": "snail", 
+        "tags": [
+            {
+                "content": "Librarian", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "Retired government official ... settled in Canberra with family in 2001. Have worked with a couple of Foreign Embassies in the capital in the years since. Currently volunteer researcher with the Honest History.org website.", 
+        "institution": "Honest History.org", 
+        "name": "Steve Flora", 
+        "tags": [
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Foreign Embassies", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Honest", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "\"Researcher\""
+    }, 
+    {
+        "bio": "landscape architect, mental health worker, biographer - user of Trove in 'R'esearch and want now to explore its potential for community digital storytelling", 
+        "institution": "University of Canberra", 
+        "name": "susan boden", 
+        "tags": [], 
+        "title": "Course Convenor, Landscape Program"
+    }, 
+    {
+        "bio": "I am an academic from the University of Queensland working in history/digital humanities with a digital project on the history of the Australian Paralymic Movement.", 
+        "institution": "The University of Queensland", 
+        "name": "Murray Phillips", 
+        "tags": [
+            {
+                "content": "University of Queensland", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Paralymic Movement", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Associate Professor"
+    }, 
+    {
+        "bio": "Trove", 
+        "institution": null, 
+        "name": "Mark R", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Job: Lecturer in Digital Humanities, Centre for Digital Humanities Research, Australian National University. Interests: Text mining, machine learning, and other data-driven approaches to literary-historical research. Background: French literary, intellectual, and book history (1750-1950).", 
+        "institution": "Australian National University", 
+        "name": "Glenn Roe", 
+        "tags": [
+            {
+                "content": "Lecturer", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Digital Humanities", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Centre for Digital Humanities Research", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "French", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Lecturer"
+    }, 
+    {
+        "bio": "Jessica is currently working on client business innovation at immersive technology startup iSee. Her background is in both higher education and marketing information and measurement leading the the practical implication of new technology solutions.", 
+        "institution": "iSee VC Pty Limited", 
+        "name": "Jessica Sullivan", 
+        "tags": [
+            {
+                "content": "Jessica", 
+                "tag-type": "person"
+            }
+        ], 
+        "title": "Business Innovation Leader"
+    }, 
+    {
+        "bio": "I am a historical archaeologist and is currently the FAIMS (www.fedarch.org) Research Fellow in the Archaeology Program at La Trobe University. I specialise in urban assemblage analysis and material-culture studies, and have designed customised relational databases to store archaeological and historical data for the \u2018Exploring the Archaeology of the Modern City\u2019 project (www.latrobe.edu.au/amc). I have collaborated with Victorian eResearch Strategic Initiative (VeRSI) and the La Trobe eResearch Office on the Australian Historical Archaeological Database (AHAD, www.ahad.edu.au), funded by the Australian National Data Service (ANDS). I have published several papers and reports on urban archaeology, consumption studies, artefact cataloguing and database design.", 
+        "institution": "La Trobe University", 
+        "name": "Penny Crook", 
+        "tags": [
+            {
+                "content": "FAIMS", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Archaeology Program", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "La Trobe University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Modern City", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Victorian eResearch Strategic Initiative", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "La Trobe eResearch Office", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Historical Archaeological Database", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "AHAD", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australian National Data Service", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "ANDS", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Research Fellow"
+    }, 
+    {
+        "bio": "I am a newly appointed research assistant working in the humanities and I also enjoy writing as my creative outlet at home.", 
+        "institution": null, 
+        "name": "Jenny Noble", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I have been in my current role of University Faculty Librarian for Humanities at Curtin University in Perth for one year, but have worked at Curtin library in various positions for almost ten years. I am interested in how researchers can use new technologies to make themselves and their work more visible, enabling their data to be accessed in more relevant formats than traditional methods, which often don\u2019t work well for humanities scholars. I am also interested in how we can incorporate Digital Humanities so that Universities recognise research outputs in those formats which do not necessarily fit with traditional outputs.", 
+        "institution": "Curtin University, Perth, Western Australia", 
+        "name": "Marilyn Coen", 
+        "tags": [
+            {
+                "content": "University Faculty Librarian for Humanities", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Curtin University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Perth", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Curtin", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Universities", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Faculty Librarian"
+    }, 
+    {
+        "bio": "Mitchell Whitelaw is an academic, writer and practitioner with interests in new media art and culture, especially generative systems, data-aesthetics, and digital cultural collections. His work has appeared in journals including Leonardo, Digital Creativity, Fibreculture, and Senses and Society. His current work spans materiality, data and culture, with a practical focus on creating \u201cgenerous interfaces\u201d for digital heritage. He has worked with institutions including the State Library of NSW, the National Archives, and the National Gallery of Australia, developing innovative interfaces to their digital collections. Mitchell is currently an Associate Professor in the Faculty of Arts and Design at the University of Canberra, where he leads the Digital Treasures program in the Centre for Creative and Cultural Research.", 
+        "institution": "University of Canberra", 
+        "name": "Mitchell Whitelaw", 
+        "tags": [
+            {
+                "content": "Mitchell Whitelaw", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Leonardo", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Digital Creativity", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Fibreculture", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Senses and Society", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "State Library of NSW", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National Archives", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National Gallery", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Mitchell", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Faculty of Arts", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Design", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "University of Canberra", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Digital Treasures", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Centre for Creative and Cultural Research", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Associate Professor"
+    }, 
+    {
+        "bio": "I am a Digital Communications Officer for the Faculty of Education and Arts Research Unit at the University of Newcastle. My work involves creating web content, developing information architecture, SEO, SEM, social media marketing, and marketing and communications strategic planning.", 
+        "institution": "Faculty of Education and Arts Research Unit, University of Newcastle", 
+        "name": "Jessie Reid", 
+        "tags": [
+            {
+                "content": "Digital Communications Officer", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Faculty of Education and Arts Research Unit", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Newcastle", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "SEO", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "SEM", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Digital Communications Officer"
+    }, 
+    {
+        "bio": "I am a VERY mature student in my 70s. I am doing this research now because I was not able to do it while I was working, and I worked until I turned 70. I hope to give Eirene Mort the recognition as an artist and artisan that has so far been denied her.", 
+        "institution": "ANU", 
+        "name": "Pamela Lane", 
+        "tags": [
+            {
+                "content": "Eirene Mort", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "student"
+    }, 
+    {
+        "bio": "I work as a senior lecturer in literary and textual studies at the Centre for Digital Humanities Research at the Australian National University.", 
+        "institution": "Australian National University", 
+        "name": "Katherine Bode", 
+        "tags": [
+            {
+                "content": "Centre for Digital Humanities Research", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Senior Lecturer"
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "jkasunic", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Work heavily with metadata as the Collection Management and Access Librarian at Deakin University", 
+        "institution": "Deakin University Library", 
+        "name": "Sarah Sherman", 
+        "tags": [
+            {
+                "content": "Collection Management and Access Librarian at Deakin University", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Collection Management and Access Librarian"
+    }, 
+    {
+        "bio": "I'm a Catalan in Australia studying a PhD about text visualization at the Faculty of Arts and Design UC and working as research engineer at Machine Learning researcjh group at NICTA.", 
+        "institution": "UC and NICTA", 
+        "name": "Jaume Nualart", 
+        "tags": [
+            {
+                "content": "Catalan", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Faculty of Arts", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Design UC", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Machine Learning", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "NICTA", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "PhD Candidate"
+    }, 
+    {
+        "bio": "I work on the Trove team!", 
+        "institution": "National Library of Australia", 
+        "name": "Julia H", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I began my IT life as a software developer, supporting the Australian government juggernaut. In doing so I discovered an unusual affinity with javascript, which has since lead to job titles including the words \"interface\", \"designer\" and \"developer\" in no particular order. I've developed web applications for ACT and Federal Government and currently as a freelancer I contribute to open source projects Sakai and ArchivesSpace.", 
+        "institution": "Freelance", 
+        "name": "Payten Giles", 
+        "tags": [
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Federal Government", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Sakai", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "ArchivesSpace", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Software Developer"
+    }, 
+    {
+        "bio": "Masters in Education, Grad Dip Information Technology.", 
+        "institution": "Australian National University", 
+        "name": "Diane Humphery", 
+        "tags": [
+            {
+                "content": "Masters", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Grad Dip Information Technology", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Humanities Libraries"
+    }, 
+    {
+        "bio": "A librarian who's interested in how technology and library collections can combine to create new and interesting connections and stories.", 
+        "institution": null, 
+        "name": "Jane Black", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "Nancy Opdyke", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Following a 30-year career in IT spanning enterprise systems management, software architecture and development, industry training, and a high-tech start-up, I returned to university to study community informatics and qualified as a librarian. I then went on to complete my Master of Business information Systems (Honours) degree while also teaching at the university. My master's thesis took a design-science approach to investigating archival systems interoperability and identified a number of technological and social barriers to equitable and consistent community access to institutional archives. I am now a doctoral candidate, concerned with investigating these barriers. My research comprises theoretical as well as design-science/action-research investigations of systems interoperability; conceptual modelling in archival informatics; metadata standards-setting; and organisational/social factors in archival systems design and implementation.", 
+        "institution": "Monash University", 
+        "name": "Greg Rolan", 
+        "tags": [], 
+        "title": "PhD Candidate"
+    }, 
+    {
+        "bio": "Digital services coordinator and reference librarian at NLA. Passionate information hunter-gatherer.", 
+        "institution": "National Library of Australia", 
+        "name": "Renee Wilson", 
+        "tags": [
+            {
+                "content": "NLA", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Digital services coordinator"
+    }, 
+    {
+        "bio": "I am an academic sport historian with a research and teaching interest in digital history.", 
+        "institution": "The University of Queensland", 
+        "name": "Gary Osmond", 
+        "tags": [], 
+        "title": "Senior Lecturer"
+    }, 
+    {
+        "bio": "I was born and grew up in Italy; took an Italian Doctorate in Physics cum laude; left Italy and worked in IT and telecommunication in Germany, Australia, Switzerland, and France; learnt German and French; aquired the Australian citizenship; published scientific/technical papers and some Science Fiction stories; currently 2/3 through a PhD with a creative thesis in Communication at the University of Canberra.", 
+        "institution": "University of Canberra", 
+        "name": "Giulio Zambon", 
+        "tags": [
+            {
+                "content": "Italy", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Italian Doctorate", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Physics", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Germany", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Switzerland", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "France", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "German", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "French", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Science Fiction", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "University of Canberra", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate student"
+    }, 
+    {
+        "bio": "I am halfway through my PhD developing a new methodology for working with theatre archives, making them accessible online and researching user interaction. After many years as an arts worker in theatre, music and dance I became frustrated at how proper documentation remains neglected and underutilised, to the detriment of our cultural heritage.", 
+        "institution": "ANU Centre for Digital Humanities Research", 
+        "name": "Gavin Findlay", 
+        "tags": [], 
+        "title": "PhD Candidate"
+    }, 
+    {
+        "bio": "Somaya Langley has a background in the arts, sound, media, broadcast, festivals, archives, libraries digital collecting and digital preservation. She has worked for ABC Classic FM, the Australian Music Centre, as the Curator of Networked Media for the National Film and Sound Archive of Australia and is currently working for the National Library of Australia. She has also undertaken consultancy work for the Australia Council for the Arts to research and deliver the Archives in the Digital Era Scoping Study Report. Somaya was one of two Creative Co-Directors/Co-Producers of the 2008 and 2009 Electrofringe festivals, Australia\u2019s festival of electronic arts and culture and was Production Manager of the International Society of Contemporary Music World New Music Days festival in 2010. In 2009 she was Co-Curator of Transit Lounge, a partner project of Berlin\u2019s transmediale festival. She loves working at the nexus between the arts, culture, society and technology.", 
+        "institution": "National Library of Australia", 
+        "name": "Somaya Langley", 
+        "tags": [
+            {
+                "content": "Somaya Langley", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "ABC Classic FM", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian Music Centre", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Curator of Networked Media", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National Film and Sound Archive of Australia", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National Library of Australia", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australia Council", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Arts", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Archives", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Digital Era Scoping Study Report", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Somaya", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Electrofringe", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "International Society of Contemporary Music World New Music Days", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Transit Lounge", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Berlin", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Digital Collecting Support"
+    }, 
+    {
+        "bio": "Mark has worked with Hudson Molonglo as the technical lead of the ArchivesSpace Project, with New York University on their Sakai implementation, with The National Library of Australia to develop tools to support cataloguing and staff workflows, and with several other organisations and open source projects.", 
+        "institution": "Teaspoon Consulting", 
+        "name": "Mark Triggs", 
+        "tags": [
+            {
+                "content": "Mark", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Hudson Molonglo", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "ArchivesSpace Project", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "New York University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Sakai", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "National Library of Australia", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "IT Consultant"
+    }, 
+    {
+        "bio": "Retired American academic, after appointments at ANU and Uni Melbourne, and career (69-92) at U. Washington, in management and economics, now wants to engage in historical inquiry concerning lives of venturing whalers, women, merchants, adventurers, seamen ... even a convict or two and a horse arriving illegally..", 
+        "institution": "Univbersities of Michigan, Mass., Washington, Technical University of Kelimitsky (Ukraine) and so forth...", 
+        "name": "Robert Cope", 
+        "tags": [
+            {
+                "content": "American", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Uni Melbourne", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "U. Washington", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "I joined the Trove Support Team in 2014 and am learning new things about Trove all the time.", 
+        "institution": "National Library of Australia", 
+        "name": "Kristen Dyer", 
+        "tags": [
+            {
+                "content": "Trove Support Team", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Trove Support Team"
+    }, 
+    {
+        "bio": "I am a Masters student in Information Management, currently involved in a professional practice project with Archaeology Department at UNSW. I have been studying and child-caring for long enough and look forward to finishing my course this year and going to work in an information job.", 
+        "institution": "University of Canberra", 
+        "name": "Phillippa Bourke", 
+        "tags": [
+            {
+                "content": "Masters", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Information Management", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Archaeology Department", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "UNSW", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate Student"
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "rlehane", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Junran Lei has been involved in a number of system development projects in Humanities research. She developed AUSTLANG, an Australian Indigenous language database with GIS mapping features, OZBIB, a linguistic bibliography database, i\u2010Dig, a Fedora based search engine for harvested collections and a semantic web for museum prototype system. She worked as Researcher to investigate the development of an open source archival repository and preservation system for UNESCO. She is currently working on OCCAMS, an online cultural collection analysis and management system at the Centre for Digital Humanities Research, Australian National University.", 
+        "institution": null, 
+        "name": "Junran Lei", 
+        "tags": [
+            {
+                "content": "Junran Lei", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Humanities", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australian Indigenous", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "GIS", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Fedora", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "UNESCO", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Centre for Digital Humanities Research", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "Family History Researcher & Student", 
+        "institution": "Explorers Tree", 
+        "name": "Rose Goodfellow", 
+        "tags": [
+            {
+                "content": "Family History Researcher & Student", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Researcher"
+    }, 
+    {
+        "bio": "I joined the National Library of Australia in February 2014 as the Manager eResources Consortium. The Consortium is a National & State Libraries Australasia (NSLA) project that secures access to commercial electronic information resources for its members. The Consortium aims to simplify licensing arrangements, improve cost benefits for member libraries, and to explore opportunities for making eResources more widely available to all Australians, regardless of where they live. I returned to Australian in 2010 after spending ten years working in Fiji where I was active in library development, advocacy and access to information in the Pacific.", 
+        "institution": "National Library of Australia", 
+        "name": "Libby Cass", 
+        "tags": [
+            {
+                "content": "National Library of Australia", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National & State Libraries Australasia", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "NSLA", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australians", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Fiji", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Pacific", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Manager eResources Consortium"
+    }, 
+    {
+        "bio": "Tilly Hinton is exploring the historical interactions of people with highly ubanised rivers in Los Angeles and Sydney, through a PhD in environmental history at the University of Technology, Sydney. She has led and contributed to a range of initiatives focused on education, the environment and community development, including managing the GREENhouse at Woodford Folk Festival. In her spare time she consults to the higher education sector (on research dissemination and impact optimisation for educational research), cooks, takes photos, and writes.", 
+        "institution": "University of Technology, Sydney", 
+        "name": "Tilly Hinton", 
+        "tags": [
+            {
+                "content": "Tilly Hinton", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Los Angeles", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Sydney", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "University of Technology", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "GREENhouse", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Woodford Folk Festival", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Graduate Student"
+    }, 
+    {
+        "bio": "A dabbler in digital art, I'm currently studying how we can navigate DCH collections by emotion.", 
+        "institution": "University of Canberra", 
+        "name": "Riley Post", 
+        "tags": [
+            {
+                "content": "DCH", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate student"
+    }, 
+    {
+        "bio": "I'm currently working on the Collection Discoverability program at the National Gallery of Australia. As Collection Systems Officer, Discoverability, my role is to facilitate the inclusion of contextual data into the Collection Management System in support the wider Collection Discoverability Project aims of improving the ability for NGA visitors to find, browse, interpret and respond to works of art according to their own needs and interests. I have previous workplace experience within the Arts and Cultural and Tertiary sectors in a variety of roles with Queensland Art Gallery and Gallery of Modern (Brisbane), James Cook University (Townsville) and Perc Tucker Regional Gallery (Townsville). I am also currently engaged in Higher Degree research in the Humanities field in a part-time capacity through James Cook University. My research centers around an investigation and articulation of the cultural constructs that contemporary Australian artists who use collection practices within their artistic practice engage with.", 
+        "institution": "National Gallery of Australia", 
+        "name": "Ren\u00e9e Joyce", 
+        "tags": [
+            {
+                "content": "Collection Discoverability", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "National Gallery", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "As Collection Systems Officer", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Discoverability", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Collection Management System", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "NGA", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Arts", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Cultural", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Queensland Art Gallery", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Gallery of Modern", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Brisbane", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "James Cook University (Townsville", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Perc Tucker Regional Gallery", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Townsville", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Humanities", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "James Cook University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Collection Systems Officer, Discoverability"
+    }, 
+    {
+        "bio": "I'm an former National Library worker catching up on what's been happening with Trove and other such interactive technologies since I left the Library a couple of years ago. I'm now embarking on a new adventure - working with volunteer Wikipedians who are contributing to the history of the Australian Paralympic movement.", 
+        "institution": null, 
+        "name": "Elizabeth Watt", 
+        "tags": [
+            {
+                "content": "National Library", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Wikipedians", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australian Paralympic", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "History Project Volunteer CoordinatorrResearch"
+    }, 
+    {
+        "bio": "I am currently a Reader in Archaeology and Ancient History at the University of Leicester. I grew up on a sheep farm in North Canterbury, New Zealand. My undergraduate degree was in Pure Mathematics from the University of Canterbury (New Zealand), and my MA Prelim, MA Honours, and PhD in Archaeology from the University of Sydney. I have previously taught archaeology and ancient history at the University of Sydney, the Australian National University, and the University of Sheffield. I have held an Australian Research Council Postdoctoral Fellow and a U2000 Research Fellow at Sydney University, and an Australian Research Council Queen Elizabeth II Fellow at the Australian National University. I also held an Australian Bicentennial fellowship in the Faculty of Classics, University of Cambridge, and a visiting fellowship at St John's College, University of Durham. I became a Reader in Archaeology at the Australian National University in 2005. I am a Fellow of the Society of Antiquaries and an Honorary Fellow of the Australian Academy of Humanities. From September to December 2014 I am a Harold White Fellow at the National Library of Australia.", 
+        "institution": "University of Leicester", 
+        "name": "Penelope Allison", 
+        "tags": [
+            {
+                "content": "Reader in Archaeology", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Leicester", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "North Canterbury", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "New Zealand", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Pure Mathematics", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "University of Canterbury", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "MA Prelim", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "MA", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "University of Sydney", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Sheffield", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian Research Council Postdoctoral Fellow", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Research Fellow at Sydney University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Research Council Queen Elizabeth II Fellow", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian Bicentennial", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Classics", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "University of Cambridge", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "St John", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "University of Durham", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Fellow of the Society of Antiquaries", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Academy of Humanities", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Harold White Fellow", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "National Library of Australia", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Reader"
+    }, 
+    {
+        "bio": "", 
+        "institution": "Intersect Australia", 
+        "name": "Ingrid Mason", 
+        "tags": [], 
+        "title": "eResearch Analyst"
+    }, 
+    {
+        "bio": "I am a digital humanities software developer specialising in XML and web technologies.", 
+        "institution": null, 
+        "name": "Conal Tuohy", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Undergraduate History and Mathematics student at ANU.", 
+        "institution": "ANU", 
+        "name": "Raqeeb Bhuyan", 
+        "tags": [
+            {
+                "content": "Undergraduate History", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Mathematics", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Undergraduate Student"
+    }, 
+    {
+        "bio": "I am the Senior Lecturer in Digital Humanities at the University of Western Sydney. My background is primarily in linguistics, where my main research interest is how languages change, vary, and interact with each other. I have worked on a variety of database and mapping projects, as well as recently becoming involved in modelling and simulation. I build robots in my spare time.", 
+        "institution": null, 
+        "name": "Rachel Hendery", 
+        "tags": [
+            {
+                "content": "Senior Lecturer in Digital Humanities", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Western Sydney", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "I love sharing Trove's riches with the world.", 
+        "institution": "National Library of Australia", 
+        "name": "Catriona Bryce", 
+        "tags": [], 
+        "title": "Trove Support"
+    }, 
+    {
+        "bio": "I am a reformed accountant who moved into public relations then morphed into historical research. I am interested in the rise of the secular in the nineteenth and early twentieth centuries and the tension between the secular and religious during this period. Currently I'm analysing WWI soldiers' diaries using the transcriptions of the diaries held by the State Library of NSW for a history I am writing about the personal beliefs of soldiers while on the front. The engine of my research is a simple Python program I have written to search the diaries for certain keywords. You can read more about this project on my blog, Stumbling Through the Past. In my digital humanities blog, Stumbling Through the Future I give simple step by step explanations of how to use some useful tools. Most recently I did a series of posts on getting started with the Trove API. My first THATCamp was a great one - Canberra 2011 (see my post. In 2013 I helped to organise a THATCamp connected with the annual conference of the Australian Historical Association in Wollongong - THATCamp #OzHA2013 and I attended THATCamp in Sydney last year.", 
+        "institution": null, 
+        "name": "perkinsy", 
+        "tags": [
+            {
+                "content": "WWI", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "State Library of NSW", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Python", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Stumbling Through the Past", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Trove API", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "THATCamp", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "THATCamp", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australian Historical Association", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Wollongong", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "THATCamp", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Sydney", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "I am currently employed as a Communications and Outreach Officer for the ARC Centre of Excellence for the Dynamics of Language. My own research explores language, literacy and social organisation in Asia and Australia. I am currently building a digital archive for the literature of the utopian Eskaya community of the southern Philippines and developing unicode-enabled fonts for the Eskaya script among other Messianic alphabets of the region, allowing for better analysis of their associated literary corpora.", 
+        "institution": "ARC Centre of Excellence for the Dynamics of Language", 
+        "name": "Piers Kelly", 
+        "tags": [
+            {
+                "content": "Communications", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Outreach Officer", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "ARC Centre of Excellence", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Dynamics of Language", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Asia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "utopian Eskaya", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Philippines", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Eskaya", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Messianic", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Communications and Outreach Coordinator"
+    }, 
+    {
+        "bio": "PhD student in UC's Digital Treasures program. Background in the cultural heritage sector.", 
+        "institution": "University of Canberra", 
+        "name": "Rebecca Hawcroft", 
+        "tags": [
+            {
+                "content": "UC", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Digital Treasures", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "PhD student"
+    }, 
+    {
+        "bio": "I'm a digital historian, web developer and cultural data hacker who's been developing online resources relating to archives, museums and history since 1993. I've written on weather, progress and the atomic age, and developed resources including Bright Sparcs, Mapping our Anzacs and QueryPic. I'm currently the Manager of Trove at the National Library of Australia, as well as being an Adjunct Associate Professor in the Centre for Creative and Cultural Research at the University of Canberra. I was one of the organisers of THATCamp Canberra in 2010 and 2011.", 
+        "institution": null, 
+        "name": "Tim Sherratt", 
+        "tags": [
+            {
+                "content": "Bright Sparcs", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Manager of Trove", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "National Library of Australia", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Centre for Creative and Cultural Research", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "University of Canberra", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "THATCamp Canberra", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "Learning Python, love playing with APIs.", 
+        "institution": null, 
+        "name": "Bernard de Broglio", 
+        "tags": [
+            {
+                "content": "Learning Python", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "APIs", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": null
+    }, 
+    {
+        "bio": "I work at the ANU in the Hancock Library. I am studying at Charles Sturt University as an undergraduate in Information Studies, Librarian", 
+        "institution": "ANU", 
+        "name": "Colleen Conley", 
+        "tags": [
+            {
+                "content": "ANU", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Hancock Library", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Charles Sturt University", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Information Studies", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Librarian", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Library technician"
+    }, 
+    {
+        "bio": "Steve is one of those scary computer-literate environmental scientists who would have taken over the world, if their energies hadn't been channelled into other areas such as IT support. His only interest is improving the IT literacy of Fenner School staff and students (this seems to be working, because over the past year he found some time for other things like virtualising the remaining Fenner School IT server infrastructure, and replacing the Fenner School's print-quota-ing system). And making computers do what he expects... Amongst his interests are ensuring people learn how to use their computers properly; forcing said computers into behaving themselves; making sensible use of multi-media systems; further simplifying the administration of the Fenner School computer servers; occasionally making the acquaintance of a thesaurus; running around the house cleaning up after the child; paraphrasing Monty Python where-ever it seems appropriate; boldly splitting infinitives where no-one has split them before; recycling most of his BIO from an old Fenner School yearbook entry; and writing about himself somewhat facetiously in the third-person.", 
+        "institution": "Fenner School of Environment & Society, Australian National University", 
+        "name": "Steve Leahy", 
+        "tags": [
+            {
+                "content": "Steve", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Fenner School", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Monty Python", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "BIO", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Programmer/Multi-media Services"
+    }, 
+    {
+        "bio": "Angela is a Canadian Brit who is interested in all things digital. She has a background in education, e-Learning, and champions the democratising of education, additive manufacturing and the Slow Movement. She is a confirmed MOOC-a-holic. She moved to Canberra from London in 2013 with her husband and children, but originally hails from a small town in rural Alberta called Rocky Mountain House. In her spare time she loves camping, kayaking, snorkelling, and MOOCing with Coursera, edX, FutureLearn and NovoEd. Since meeting her husband while working in northern Japan 18 years ago, she\u2019s lived in The UK, Romania, and in Tbilisi, Georgia working in various roles including as an e-Learning policy advisor, web designer and manager, User Experience Consultant, teacher trainer, lecturer, education manager, teacher trainer, teacher and as a jewellery designer & maker. She has an MA in TEFL (Teaching English as a Foreign Language) and a Bachelor of Education with specializations in Inter-Cultural Communication and e-Learning. In 2007, Angela was selected as one of four diamond studies participants in the DTC (Diamond Trading Company formerly known as De Beers) Diamond Course in London. She also holds qualifications in silver & gold jewellery making, enamelling, flower-arranging and diamond studies.", 
+        "institution": null, 
+        "name": "Angela Richmond-Fuller", 
+        "tags": [
+            {
+                "content": "Angela", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Canadian Brit", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Slow Movement", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "London", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Alberta", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Rocky Mountain House", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Coursera", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Japan", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "UK", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Romania", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Tbilisi", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Georgia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "User Experience Consultant", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "TEFL", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Teaching English", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Foreign Language", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Bachelor of Education", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Inter-Cultural Communication", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "DTC (Diamond Trading Company", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "De Beers", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Diamond Course", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "UX Consulting"
+    }, 
+    {
+        "bio": "I have been designing computer software for more than 30 years and have surfed the wave of innovation around the planet during my career. I am now at a point where I can distill that lifetime of learning in to better designs for computer systems.", 
+        "institution": "AIATSIS", 
+        "name": "John Tregea", 
+        "tags": [], 
+        "title": "Director of Knowledge Management"
+    }, 
+    {
+        "bio": "A working life mixing language and number guided by logic and images.", 
+        "institution": "Project Computing", 
+        "name": "John Evershed", 
+        "tags": [], 
+        "title": "software developer"
+    }, 
+    {
+        "bio": "I am passionate about tech-fused art and am working with the Goldilocks Zone team to transform Canberra into a canvas for augmented reality installations.", 
+        "institution": "Goldilocks Zone", 
+        "name": "Tina Mcintosh", 
+        "tags": [
+            {
+                "content": "Goldilocks Zone", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Canberra", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "CEO & cofounder"
+    }, 
+    {
+        "bio": "PhD candidate working on the historiography of space in Homer and Herodotos. By profession a systems analyst.", 
+        "institution": "Australian National University", 
+        "name": "Susan Ford", 
+        "tags": [
+            {
+                "content": "Herodotos", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Phd candidate"
+    }, 
+    {
+        "bio": "I am an artist/academic currently doing my phd research at ANU. I am interested in creative/experimental research methodologies.", 
+        "institution": null, 
+        "name": "Sawit Prasertphan", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I have been a medical librarian at South West Healthcare since 2011. I am passionate about using new technologies to transform the health library. I transformed my library with new technologies on tight budget, such as the implimentation of Open Source Library Management System, Discovery Service and Library Security gate and RFID technology.", 
+        "institution": "South West Healthcare", 
+        "name": "Josella Chan", 
+        "tags": [
+            {
+                "content": "South West Healthcare", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Open Source Library Management System", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Discovery Service and Library Security gate", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "RFID", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Medical Librarian"
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "kmcalpine", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "tsherratt", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "myleejoseph", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I'm a PhD candidate within the Faculty of Arts and Design at the University of Canberra. I'm interested in developing new forms of visual information seeking interfaces for digital cultural heritage collections. My work with the Australian Prints & Printmaking collection is available at http://printsandprintmaking.gov.au/explore/", 
+        "institution": "University of Canberra", 
+        "name": "Ben Ennis Butler", 
+        "tags": [
+            {
+                "content": "Faculty of Arts", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Design", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "University of Canberra", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Prints & Printmaking", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "PhD Candidate"
+    }, 
+    {
+        "bio": "Programmer interested in search systems, OCR correction and autonomous vehicles. Worked on AustLit since 2000. Worked as the system architect & technical lead on the NLA digitised newspapers and Trove implementation from 2006-2012. Co-developer of OverProof OCR correction software.", 
+        "institution": "Project Computing Pty Ptd, AustLit", 
+        "name": "Kent Fitch", 
+        "tags": [
+            {
+                "content": "OCR", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "NLA", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Programmer"
+    }, 
+    {
+        "bio": "Researching social media, science communication and data visualisation. PhD student at CPAS, ANU. Enthusiastic about open science, open source, open hardware. Co-founder of @MakeHackVoid.", 
+        "institution": "CPAS, ANU", 
+        "name": "Brenda Moon", 
+        "tags": [
+            {
+                "content": "CPAS", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "ANU", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate student"
+    }, 
+    {
+        "bio": "I am an academic and researcher at the University of Canberra. I head up a department containing courses in Front-End We, Graphic Design, Film Production and Media Arts, as well as the Masters of Digital Design. My research sits within the Digital Treasures program where we focus on the development of generous interfaces for digital cultural collections. I have a particular interest in interface poetics - looking beyond the pragmatic to consider emergent aesthetic aspects of computer media.", 
+        "institution": "University of Canberra", 
+        "name": "Geoff Hinchcliffe", 
+        "tags": [
+            {
+                "content": "University of Canberra", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Graphic Design", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Film Production and Media Arts", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Masters of Digital Design", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Digital Treasures", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Head of Discipline"
+    }, 
+    {
+        "bio": "Web developer, data fiend", 
+        "institution": "National Library of Australia", 
+        "name": "Paul Hagon", 
+        "tags": [
+            {
+                "content": "Web", 
+                "tag-type": "misc"
+            }
+        ], 
+        "title": "Web Developer"
+    }, 
+    {
+        "bio": "I'm an educator and librarian with interests in collection management, metadata, e-learning and professional learning communities.", 
+        "institution": "Australian Council for Educational Research", 
+        "name": "Pru Mitchell", 
+        "tags": [], 
+        "title": "Manager, Library and Information Services"
+    }, 
+    {
+        "bio": "Kylie Moloney began working as the Archivist for the Pacific Manuscripts Bureau in November 2008. She has worked as a librarian, curator and archivist in a variety of cultural institutions for over 10 years in Australia, the Pacific and Europe. She has an academic background in music, librarianship, education and museum studies with professional interests in Pacific archives and material culture. She is currently the Executive Officer of the Pacific Manuscripts Bureau, based at the Australian National University.", 
+        "institution": "Pacific Manuscripts Bureau", 
+        "name": "Kylie Moloney", 
+        "tags": [
+            {
+                "content": "Kylie Moloney", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "Archivist", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Pacific Manuscripts Bureau", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "librarian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Pacific", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Europe", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Executive Officer of the Pacific Manuscripts Bureau", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Australian National University", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Executive Officer"
+    }, 
+    {
+        "bio": "PhD student in humanities (English) at the ANU.", 
+        "institution": "ANU", 
+        "name": "Jo Piavanini", 
+        "tags": [
+            {
+                "content": "English", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "ANU", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Graduate student"
+    }, 
+    {
+        "bio": "", 
+        "institution": null, 
+        "name": "Kerry Raymond", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I'm doing research into the recent trade publishing relationship between Australia and Great Britain and have a particular interest in trade flows, networks, territorial copyright and the licensing of subsidiary rights. I'm working with several large data sets, so am particularly interested in discussing approaches to mining, manipulating and displaying data.", 
+        "institution": "Australian National University", 
+        "name": "Airlie Lawson", 
+        "tags": [
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Great Britain", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "PhD Candidate"
+    }, 
+    {
+        "bio": "Readers services IT person", 
+        "institution": "NLA", 
+        "name": "Tawhidul Islam", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "I have worked in sport administration for 30 years in a full range of roles, from high performance management, communications, CEO, and knowledge management. I have always been interested in finding smarter ways of doing things and deliver successful outcomes.", 
+        "institution": "Australian Paralympic Committee", 
+        "name": "Tony Naar", 
+        "tags": [], 
+        "title": "Manager Knowledge Services"
+    }, 
+    {
+        "bio": "Senior Curator, Research and Discovery, SLNSW previously Exec Manager, QLD Memory, SLQ. Have also worked at Museum of Brisbane and Global Arts Link in Ipswich. Believe a collections value is in its use and committed to working with communities and in ways.", 
+        "institution": "State Library of NSW", 
+        "name": "Louise Denoon", 
+        "tags": [
+            {
+                "content": "SLNSW", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Exec Manager", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "QLD Memory", 
+                "tag-type": "organization"
+            }, 
+            {
+                "content": "Museum", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Brisbane", 
+                "tag-type": "location"
+            }, 
+            {
+                "content": "Global Arts Link in Ipswich", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Senior Curator"
+    }, 
+    {
+        "bio": "Cameron White competed his PhD in History at the University of Sydney. He is interested in conducting, representing and talking about the importance of archival research.", 
+        "institution": "UTS", 
+        "name": "cfrazerwhite", 
+        "tags": [
+            {
+                "content": "Cameron White", 
+                "tag-type": "person"
+            }, 
+            {
+                "content": "University of Sydney", 
+                "tag-type": "organization"
+            }
+        ], 
+        "title": "Historian"
+    }, 
+    {
+        "bio": "From Australian poets through Australian music, pictures and archives to Libraries Australia and Trove - a great career in libraries. In which I've never catalogued a single item or written a single line of code...", 
+        "institution": "National Library of Australia", 
+        "name": "Marie-Louise Ayres", 
+        "tags": [
+            {
+                "content": "Australian", 
+                "tag-type": "misc"
+            }, 
+            {
+                "content": "Libraries Australia", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Assistant Director-General"
+    }, 
+    {
+        "bio": "I am a librarian with a passion for sharing Australia's stories through data.", 
+        "institution": "National Library of Australia", 
+        "name": "Catriona Bryce", 
+        "tags": [
+            {
+                "content": "Australia", 
+                "tag-type": "location"
+            }
+        ], 
+        "title": "Trove Support Leader"
+    }, 
+    {
+        "bio": "Interested in exploring current and future possibilities in the nexus between social history storytelling and technology.", 
+        "institution": null, 
+        "name": "Grant Mitchell", 
+        "tags": [], 
+        "title": null
+    }, 
+    {
+        "bio": "Former IT professional (mainframe)/software engineer for 30+ years. Now full time post-grad history student at ANU.", 
+        "institution": "ANU", 
+        "name": "David Roth", 
+        "tags": [], 
+        "title": "Graduate student"
+    }
+]
